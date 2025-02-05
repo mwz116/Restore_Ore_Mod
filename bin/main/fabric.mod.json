@@ -11,7 +11,7 @@
 		"homepage": "https://space.bilibili.com/3546584409180792",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "MIT",
+	"license": "CC0-1.0",
 	"icon": "assets/restore_ore/icon.png",
 	"environment": "*",
 	"entrypoints": {
