@@ -5,3 +5,4 @@ A *Minecraft* mod.
 
 ## Minecraft version 1.18.2
 
+## Mod version 1.0.0
