@@ -3,7 +3,7 @@
 	"id": "restore_ore",
 	"version": "${version}",
 	"name": "restore_ore",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "You can restore the original ore by placing an ore ingot in the middle and surrounding it with a circle of stone (or netherrack).",
 	"authors": [
 		"mwz116"
 	],
