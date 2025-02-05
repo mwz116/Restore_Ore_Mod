@@ -2,3 +2,6 @@
 A *Minecraft* mod.
 
 **You can restore the original ore by placing an ore ingot in the middle and surrounding it with a circle of stone (or netherrack).**
+
+## Minecraft version 1.18.2
+
