@@ -6,3 +6,9 @@ A *Minecraft* mod.
 ## Minecraft version 1.16.5
 
 ## Mod version 1.0.1
+
+
+## Download:
+
+
+**CurseForge:** https://www.curseforge.com/minecraft/mc-mods/restore-ore
