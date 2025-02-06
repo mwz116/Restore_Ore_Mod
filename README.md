@@ -1,7 +1,7 @@
 # Restore_Ore_Mod
 A *Minecraft* mod.
 
-**You can restore the original ore by placing an ore ingot in the middle and surrounding it with a circle of stone (or netherrack).**
+**Do you want to use ore to decorate your vault, but can't find the enchantment? This mod can help you without breaking the balance! You can restore the original ore by placing an ore ingot in the middle and surrounding it with a circle of stone (or netherrack,NOT cobblestone)!**
 
 ## Minecraft version 1.18.2
 
