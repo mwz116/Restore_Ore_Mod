@@ -5,7 +5,9 @@ A *Minecraft* mod.
 
 ## Please switch branches to view different versions of the mod.
 
-##Download:
+
+## Download:
+
 
 **CurseForge:** https://www.curseforge.com/minecraft/mc-mods/restore-ore
 
